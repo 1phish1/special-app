@@ -1,2 +1,2 @@
 logs/
-!logs/sample.log
+logs/*.log
